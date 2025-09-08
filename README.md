@@ -6,10 +6,11 @@ The model simulates the private rental and mortgage housing markets while consid
 
 The files included in this repository are:
 
-1. `Housing_Market_Model_18.4.2.nlogo`: the ABM with a complete UI
-2. `Housing_Market_Model_A18.4.1.nlogo`: the ABM with a simplified UI (less input parameters that the user can control)
-3. `Housing_Model_ABPandas.py`: the ABM in Python. This requires installing the Python library `ABPandas` version 0.0.34. For documentation and instructions to install, visit [https://github.com/YahyaGamal/ABPandas_Documentation](https://github.com/YahyaGamal/ABPandas_Documentation)
+1. `\NetLogo\Housing_Market_Model_18.4.2.nlogo`: the ABM with a complete UI
+2. `\NetLogo\Housing_Market_Model_A18.4.1.nlogo`: the ABM with a simplified UI (less input parameters that the user can control)
+3. `\Python\Housing_Model_ABPandas.py`: the ABM definition in Python. This requires installing the Python library `ABPandas` version 0.0.34. For documentation and instructions to install, visit [https://github.com/YahyaGamal/ABPandas_Documentation](https://github.com/YahyaGamal/ABPandas_Documentation)
+4. `\Python\run_ABPandas.py`: the python file which runs the Python version of the ABM.
 
-A version for the simplified UI designed for teaching is available in the this repository: <https://github.com/YahyaGamal/Housing_ABM_Simple_UI>
+A version of the simplified UI ABM designed for teaching (in NetLogo) is available in the this repository: <https://github.com/YahyaGamal/Housing_ABM_Simple_UI>
 
 
